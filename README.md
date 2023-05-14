@@ -1,2 +1,2 @@
-# Awesome Ui for the weather app made for Android .
+# Awesome Ui for the weather app made with flutter >
 
