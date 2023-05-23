@@ -30,7 +30,7 @@ dependencies:
   cupertino_icons: ^1.0.2
   flutter:
     sdk: flutter
-  geolocator: null
+  geolocator: 
   get: null
   google_fonts: null
   http: null
