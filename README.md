@@ -1,2 +1,9 @@
-# Awesome Ui for the weather app made with flutter >
+# Awesome  weather app with made with flutter and the weather data is fetch from the server.
+#  https://openweathermap.org/api
+
+# This app show the weather according to the location.
+# Features of App:
+# 1. Hourly Forcast.
+# 2.
+
 
