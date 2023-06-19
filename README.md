@@ -1,4 +1,4 @@
-# Awesome  weather app with made with flutter and the  data is fetched from the server and represented in the UI (❁´◡`❁).
+# Awesome  weather app made with flutter and the  data is fetched from the server and represented in the UI (❁´◡`❁).
 
 #  https://openweathermap.org/api
 
