@@ -1,4 +1,4 @@
-# Awesome  weather app made with flutter and the  data is fetched from the api server and represented in the UI (❁´◡`❁).
+# Awesome  weather app made with flutter and the weather data is fetched from the api server and it is represented in the UI (❁´◡`❁).
 
 #  link for the api:
           👇
@@ -6,7 +6,7 @@
 
 # This app show the weather according to the location.
 # Features of App:
-# 1. Hourly Forecast. ☁️
+# 1. Hourly Forecast. ☁
 # 2. 7 day Forecast. ⛈️⛅☁️🌧️🌥️🌤️
 
 
