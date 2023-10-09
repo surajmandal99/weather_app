@@ -3,6 +3,7 @@
 ## Screenshot of the UI:
 
 
+![weather](https://github.com/surajmandal99/weather_app/assets/105273927/ba2030c6-a418-49fb-9ec5-83e9d3813209)
 
 #  link for the api:
           👇
